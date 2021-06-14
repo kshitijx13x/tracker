@@ -1,0 +1,112 @@
+*{
+ 
+  background-color: black;
+
+}
+.coin
+{
+  display: flex;
+  border-bottom: 1px solid #18ffff;
+  padding-left: 100px;
+  width: 100vw;
+  color: white;
+}
+
+
+
+.image
+{
+  display: flex;
+  height: 50px;
+}
+
+.content
+{
+ 
+ 
+ width:150px;
+
+ align-items: center;
+ text-align: center;
+ 
+
+ 
+}
+
+.content2
+{
+ 
+ 
+  
+ width:150px;
+
+
+ 
+
+ 
+}
+
+.content2 img
+{
+  
+  height: 50px;
+  width: auto;
+  
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+ 
+  
+}
+
+.content h4
+{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.price
+{
+  display: flex;
+  
+}
+
+.price h4
+{
+
+  width: 150px;
+ 
+  text-align: center;
+}
+
+.green
+{
+  color: green;
+  display: flex;
+  padding-left: 20px;
+}
+
+.red
+{
+  color: red;
+  display: flex;
+  padding-left: 20px;
+}
+
+.search
+{
+  color: white;
+  display: flex;
+  width: 100vw;
+  padding-left: 500px;
+}
+
+.search input
+{
+  height: 20px;
+  width: 200px;
+  margin-top: 20px;
+  margin-left: 20px;
+  background-color: white;
+  
+}
